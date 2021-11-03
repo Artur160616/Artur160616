@@ -1,0 +1,5 @@
+//camaleon
+
+database-elcamaleon.cnicefbcq5cy.us-east-2.rds.amazonaws.com
+Usuario Global: adminCamaleon
+Password: v?$mmLEyS#4GUq
