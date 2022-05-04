@@ -98,7 +98,11 @@ admin
 wD5cL9kH7vyP5b
 https://avilsa.com.mx/landin
 
+///Nuevo acceso hosting
 
+https://c4.bksoft.mx:8083
+avilsamx
+BDrJi4Sk4aL2Zbmu
 
 
 ///////////////Landin Page/////////////////
